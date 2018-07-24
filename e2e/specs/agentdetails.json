@@ -1,0 +1,23 @@
+{
+	"customerVO": {
+		"cifNumber": "0001591924"
+	},
+	"requestId": "295206a0-ff40-4efe-88bf-02420f7ba607",
+	"cifNumber": "0001591924",
+	"custLastName": "CALVANO",
+	"channelId": "CCR",
+	"parentInteractionId": "INX552508799",
+	"agentDetailsVO": {
+		"userId": "WSENG01",
+		"agentUserId": "WSENG01_AL1",
+		"loginSessionId": "aaec8f2b-26cd-46fe-b71d-4c07c33be010"
+	},
+	"context": "Inbound Call",
+	"serviceName": "BankSvcgCustomerInfo",
+	"operationOrMethodName": "getCutomerInfo",
+	"cacheKey": "0001591924",
+	"stubEnabled": false,
+	"size": 0,
+	"lineOfBusiness": "DPL",
+	"showOrHideExp": ""
+}
