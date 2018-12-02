@@ -18,7 +18,7 @@ import org.springframework.http.client.HttpComponentsClientHttpRequestFactory;
 import org.springframework.web.client.RestTemplate;
 
 @Configuration
-public class AtlasRestClientConfig {
+public class CustomRestClientConfig {
 
 	// Add http.client.ssl.trust-store=file:///... to application.properties
 	@Value("${http.client.ssl.trust-store}")
